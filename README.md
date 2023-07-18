@@ -11,7 +11,7 @@
 - Exam consisted of building a ticket manager for Qatar world cup. 
 
 ## UML Diagram
-<img width="969" alt="Screenshot 2023-07-17 at 20 53 28" src="https://github.com/tborda99/Segundo_Parcial_Programacion_II_mock2022/assets/66093902/d01f6c43-f021-496c-8d85-7e2a20ecb191">
+![](Screenshot 2023-07-18 at 18.14.23.png)
 
 ## Methods
 The following were the method descriptions in the exam, translated to English:
