@@ -1,2 +1,4 @@
-package Exceptions;public class EquiposCompletos {
+package Exceptions;
+
+public class EquiposCompletos extends Exception {
 }

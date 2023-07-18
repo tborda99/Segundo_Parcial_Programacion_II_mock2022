@@ -1,14 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="699723c1-e38b-4ca7-9eaf-07d69f792630" name="Changes" comment="" />
+    <list default="true" id="699723c1-e38b-4ca7-9eaf-07d69f792630" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SegundoParcial2022.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SegundoParcial2022.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ControladorMundial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ControladorMundial.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ControladorMundialImp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ControladorMundialImp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ControladorMundialImpTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ControladorMundialImpTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Entities/Aficionado.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Entities/Aficionado.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Entities/Entrada.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Entities/Entrada.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Entities/Estadio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Entities/Estadio.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Entities/Pais.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Entities/Pais.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Entities/Partido.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Entities/Partido.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exceptions/CompraRechazada.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exceptions/CompraRechazada.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exceptions/EquiposCompletos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exceptions/EquiposCompletos.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/ControladorMundialImp.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/ControladorMundialImpTest.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Entities/Aficionado.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Entities/Entrada.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="ProjectId" id="2SW69s3xaeSlPRkmntVGUxXEzh5" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -16,15 +47,105 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;true&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/tomasbordaberry/Desktop/Desktop/UM/S9 (Last Dance)/Programacion II/parciales/Prep_Examen/SegundoParcial2022/SegundoParcial2022/src&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.ControladorMundialImpTest">
+    <configuration name="ControladorMundialImpTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SegundoParcial2022" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ControladorMundialImpTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ControladorMundialImpTest.buscarAficionadosSospechosos" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SegundoParcial2022" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ControladorMundialImpTest" />
+      <option name="METHOD_NAME" value="buscarAficionadosSospechosos" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ControladorMundialImpTest.registrarPartido" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SegundoParcial2022" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ControladorMundialImpTest" />
+      <option name="METHOD_NAME" value="registrarPartido" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ControladorMundialImpTest.traspasoEntrada" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SegundoParcial2022" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ControladorMundialImpTest" />
+      <option name="METHOD_NAME" value="traspasoEntrada" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ControladorMundialImpTest.venderEntrada" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SegundoParcial2022" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ControladorMundialImpTest" />
+      <option name="METHOD_NAME" value="venderEntrada" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ControladorMundialImpTest" />
+        <item itemvalue="JUnit.ControladorMundialImpTest.registrarPartido" />
+        <item itemvalue="JUnit.ControladorMundialImpTest.buscarAficionadosSospechosos" />
+        <item itemvalue="JUnit.ControladorMundialImpTest.traspasoEntrada" />
+        <item itemvalue="JUnit.ControladorMundialImpTest.venderEntrada" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -33,8 +154,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1689249843291</updated>
-      <workItem from="1689249844908" duration="1000" />
+      <workItem from="1689249844908" duration="11156000" />
+      <workItem from="1689547138986" duration="18775000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>

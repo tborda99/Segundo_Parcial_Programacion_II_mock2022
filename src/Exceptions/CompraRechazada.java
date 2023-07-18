@@ -1,2 +1,4 @@
-package Exceptions;public class CompraRechazada {
+package Exceptions;
+
+public class CompraRechazada extends Exception{
 }
